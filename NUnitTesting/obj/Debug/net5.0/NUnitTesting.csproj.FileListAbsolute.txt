@@ -1,0 +1,15 @@
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/NUnitTesting.deps.json
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/NUnitTesting.dll
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/ref/NUnitTesting.dll
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/NUnitTesting.pdb
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.csprojAssemblyReference.cache
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.AssemblyInfoInputs.cache
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.AssemblyInfo.cs
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.csproj.CoreCompileInputs.cache
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.dll
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/ref/NUnitTesting.dll
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.pdb
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/ASCIIpe the room.dll
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/bin/Debug/net5.0/ASCIIpe the room.pdb
+/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/Debug/net5.0/NUnitTesting.csproj.CopyComplete

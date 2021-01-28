@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{73F7362B-5CD3-48EE-99D1-7E1A39570B65}|Default">
+  <MonoDevelop.Ide.ItemProperties.NUnitTesting.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTesting/NUTesting.cs">
+    <Files>
+      <File FileName="NUnitTesting/NUTesting.cs" Line="16" Column="1" />
+      <File FileName="NUnitTesting.Tests/UnitTest1.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

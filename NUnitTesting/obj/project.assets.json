@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ASCIIpe the room/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ASCIIpe the room.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASCIIpe the room.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASCIIpe the room/1.0.0": {
+      "type": "project",
+      "path": "../../ASCIIpe-The-Room/ASCIIpe the room.csproj",
+      "msbuildProject": "../../ASCIIpe-The-Room/ASCIIpe the room.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ASCIIpe the room >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/b/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/NUnitTesting.csproj",
+      "projectName": "NUnitTesting",
+      "projectPath": "/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/NUnitTesting.csproj",
+      "packagesPath": "/Users/b/.nuget/packages/",
+      "outputPath": "/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ATR-NUnit-Testing/NUnitTesting/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/b/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ASCIIpe-The-Room/ASCIIpe the room.csproj": {
+              "projectPath": "/Users/b/Desktop/Asborn lessons/ASCIIpe the room/ASCIIpe-The-Room/ASCIIpe the room.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
